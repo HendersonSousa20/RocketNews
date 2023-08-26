@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  uma página para captação de leads ou newsletter.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://hendersonsousa20.github.io/RocketNews/)
 
 
 ## 🔖 Layout
